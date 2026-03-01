@@ -4,6 +4,6 @@ import react from '@vitejs/plugin-react'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  // Required for GitHub Pages (project site: username.github.io/rodent-revenge/)
-  base: '/rodent-revenge/',
+  // Required for GitHub Pages (project site: username.github.io/rodents-revenge/)
+  base: '/rodents-revenge/',
 })

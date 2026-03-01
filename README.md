@@ -16,7 +16,7 @@ npm install
 npm run dev
 ```
 
-Open [http://localhost:5173/rodent-revenge/](http://localhost:5173/rodent-revenge/) (base path matches GitHub Pages).
+Open [http://localhost:5173/rodents-revenge/](http://localhost:5173/rodents-revenge/) (base path matches GitHub Pages).
 
 ## Build
 
@@ -26,7 +26,7 @@ npm run build
 
 ## Deploy to GitHub Pages
 
-1. Create a GitHub repo named `rodent-revenge`
+1. Create a GitHub repo named `rodents-revenge`
 2. Push your code
 3. Run:
 
@@ -36,7 +36,7 @@ npm run deploy
 
 4. In repo **Settings → Pages**, set source to **Deploy from a branch**, branch `gh-pages`, folder `/ (root)`.
 
-Your game will be live at `https://<username>.github.io/rodent-revenge/`.
+Your game will be live at `https://<username>.github.io/rodents-revenge/`.
 
 ## How to Play
 
